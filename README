@@ -50,23 +50,20 @@ How to Use
 Example Usage
 
 Add a Student:
-
 Enter the student's name, age, and grade when prompted.
 The system will assign a unique ID to the student and display their details.
-View a Student:
 
+View a Student:
 Enter the student's ID to view their details.
 The system will display the student's name, age, and grade.
-Update a Student:
 
+Update a Student:
 Enter the student's ID to update their details.
 Enter the new name, age, or grade when prompted. If you don't want to change a specific detail, just press Enter.
 
 
 Display Grades:
-
 The system will display each student's name, grade, and corresponding letter grade.
 
 Display Statistics:
-
 The system will display the total number of students and the average grade.
