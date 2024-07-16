@@ -1,0 +1,72 @@
+Author
+Samantha S.
+
+Overview:
+The Student Management System is a JavaScript application designed to manage student records. It allows users to add, view, update, and display student information and statistics. This project covers essential JavaScript concepts including variables, data types, operators, functions, arrays, objects, and control flow statements.
+
+Features:
+Add Student: Enter a new student's name, age, and grade.
+View Student: View details of a student by their ID.
+Update Student: Update a student's information.
+Display Grades: Show all students' grades with corresponding letter grades.
+Display Statistics: Show the total number of students and the average grade.
+
+JavaScript Concepts Covered:
+
+1. Values and Variables
+2. Data Types
+3. Basic Operators
+4. Strings and Template Literals
+5. Taking Decisions: if/else Statements
+6. Type Conversion and Type Coercion
+7. Equality Operators (== vs ===)
+8. Logical Operators
+9. Switch Statement
+10. Ternary Operator
+11. Functions
+12. Arrays
+13. Array Methods
+14. Introduction to Objects
+15. Dot vs Bracket Notation
+16. Object Methods
+17. Iteration: The for Loop
+18. Looping Arrays, Breaking and Continuing
+19. Looping Backwards and Loops in Loops
+20. The while Loop
+
+
+How to Use
+
+`Clone or download the project files.
+`Open the index.html file in a web browser.
+`Follow the on-screen prompts in the console to:
+`Add a new student.
+`View a student's details by entering their ID.
+`Update a student's details.
+`Display all students' grades with letter grades.
+`Display statistics such as total number of students and average grade.
+`Choose the exit option to close the application.
+
+Example Usage
+
+Add a Student:
+
+Enter the student's name, age, and grade when prompted.
+The system will assign a unique ID to the student and display their details.
+View a Student:
+
+Enter the student's ID to view their details.
+The system will display the student's name, age, and grade.
+Update a Student:
+
+Enter the student's ID to update their details.
+Enter the new name, age, or grade when prompted. If you don't want to change a specific detail, just press Enter.
+
+
+Display Grades:
+
+The system will display each student's name, grade, and corresponding letter grade.
+
+Display Statistics:
+
+The system will display the total number of students and the average grade.
